@@ -20,13 +20,13 @@
     {
       "id": 4,
       "name": "flower 4",
-      "image": "./images/flower4.jpeg",
+      "image": "./images/flower4.jpg",
       "clicked": false
     },
     {
       "id": 5,
       "name": "flower 5",
-      "image": "./images/flower5.jpg",
+      "image": "./images/flower5.jpeg",
       "clicked": false
     },
     {
@@ -62,13 +62,13 @@
     {
       "id": 11,
       "name": "flower 11",
-      "image": "./images/flower11.jpeg",
+      "image": "./images/flower11.jpg",
       "clicked": false
     },
     {
       "id": 12,
       "name": "flower 12",
-      "image": "./images/flower12.png",
+      "image": "./images/flower12.jpg",
       "clicked": false
     }
   ]

@@ -1,12 +1,12 @@
 .navbar li {
     display: inline-block;
-    width: 33.3%;
-    text-align: center;
+    width: 50%;
+    text-align: left;
     margin-top: 0px;
     font-family: serif
   }
 .navbar {
-    background: #5133a4;
+    background:purple;
     min-height: 70px;
     position: fixed;
     width: 100%;

@@ -9,7 +9,7 @@ import friends from "./friends.json";
 
 let correctGuesses = 0;
 let bestScore = 0;
-let clickMessage = "Click on an image to begin!";
+let clickMessage = "Click on the image to begin!";
 
 class App extends Component {
     state = {
@@ -42,7 +42,7 @@ class App extends Component {
         }else if (correctGuesses < 11){
             clickedFriend[0].clicked = true;
             correctGuesses++;
-            clickMessage = "Great"; 
+            clickMessage = "Nice try, click again! "; 
 
             if (correctGuesses > bestScore){
                 bestScore =correctGuesses;
@@ -60,7 +60,7 @@ class App extends Component {
             clickedFriend[0].clicked = true;
             correctGuesses = 0;
 
-            clickMessage="WOW! You got all 12! Play again?"
+            clickMessage="You won!"
             bestScore = 12;
             this.setState({bestScore});
 

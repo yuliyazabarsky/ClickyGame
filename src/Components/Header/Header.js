@@ -4,7 +4,7 @@ import "./Header.css";
 function Header(){
     return <header className ="header">
     <h1> Clicky Game</h1>
-    <h2>Click on the image t oearn points, but dont click on amy more than once! </h2>
+    <h2>Click on the flower to earn points, but don't click on the same image more than once! </h2>
     </header>
 }
 

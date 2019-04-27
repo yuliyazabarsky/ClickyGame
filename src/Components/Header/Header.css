@@ -1,10 +1,12 @@
 .header {
-    background-color: #2c323c;
-    background-image: url(/4de356f…/00972/assets/images/geometry.svg);
-    background-repeat: repeat;
-    color: #fff;
+    background-color: whitesmoke;
+    /* background: url("/images/pink.jpg"); */
+    /* background-repeat: no-repeat;
+    background-size: auto; */
+    color: purple;
     min-height: 400px;
     padding: 180px 20px;
     padding-bottom: 140px;
     text-align: center;
+    font-family: serif;
 }
