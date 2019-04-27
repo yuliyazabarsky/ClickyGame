@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "flower 1",
+      "image": "./images/flower1.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "name": "flower 2",
+      "image": "./images/flower2.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "name": "flower 3",
+      "image": "./images/flower3.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "name": "flower 4",
+      "image": "./images/flower4.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "name": "flower 5",
+      "image": "./images/flower5.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "name": "flower 6",
+      "image": "./images/flower6.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "name": "flower 7",
+      "image": "./images/flower7.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "name": "flower 8",
+      "image": "./images/flower8.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "name": "flower 9",
+      "image": "./images/flower9.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "name": "flower 10",
+      "image": "./images/flower10.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "name": "flower 11",
+      "image": "./images/flower11.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "name": "flower 12",
+      "image": "./images/flower12.png",
+      "clicked": false
+    }
+  ]
