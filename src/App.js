@@ -9,7 +9,7 @@ import friends from "./friends.json";
 
 let correctGuesses = 0;
 let bestScore = 0;
-let clickMessage = "Click on the image to begin!";
+let clickMessage = "Click the image to begin!";
 
 class App extends Component {
     state = {
@@ -25,7 +25,7 @@ class App extends Component {
         const clickedFriend = friends.filter(friend => friend.id ===id);
 
         if(clickedFriend[0].clicked){
-            correctGuesses =0;
+            correctGuesses = 0;
             clickMessage = "You guessed incorrectly";
 
             for(let i=0; i< friends.length; i++){
